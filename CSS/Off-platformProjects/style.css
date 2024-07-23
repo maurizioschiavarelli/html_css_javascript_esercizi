@@ -1,0 +1,40 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-image: url(resources/pattern.jpeg);
+}
+
+header h1{
+    font-size: 6rem;
+    text-align: center;
+    color: yellowgreen;
+}
+
+main h2{
+    font-size: 2.6rem;
+}
+
+main h3{
+    font-size: 1.3rem;
+}
+
+main p{
+    font-size: 1.1rem;
+}
+
+.brushes{
+    background-color: rgb(92, 139, 22);
+    color: white;
+}
+
+.frames{
+    background-color: peru;
+    color: white;
+}
+
+.paint{
+    background-color: rgb(37, 158, 158);
+    color: white;
+}
